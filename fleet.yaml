@@ -1,6 +1,6 @@
 defaultNamespace: default
 helm:
-  chart: https://github.com/SouthCountyG/charts/blob/main/assets/rancher-demo-0.2.1.tgz?raw=true
+  chart: https://github.com/SouthCountyG/charts/blob/main/assets/rancher-demo-0.2.2.tgz?raw=true
   values:
     fullnameOverride: "rancher-demo"
     env:
